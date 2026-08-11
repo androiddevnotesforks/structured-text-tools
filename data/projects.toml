@@ -353,6 +353,11 @@ url = "https://github.com/yshavit/mdq"
 descr = "Select elements from Markdown documents using a syntax inspired by Markdown and jq. Match content with regular expressions. Output Markdown or JSON."
 tags = ["markdown"]
 
+[mq]
+url = "https://github.com/harehare/mq"
+descr = "Query, filter, and transform Markdown using a syntax similar to jq. Written in Rust, with a REPL, an LSP for editor integration, and support for custom functions."
+tags = ["markdown"]
+
 [Miller]
 url = "https://github.com/johnkerl/miller"
 descr = "`sed`, `awk`, `cut`, `join` and `sort` for name-indexed data such as CSV and tabular JSON."

@@ -205,6 +205,7 @@ See the [big comparison list](sql-based.md). It covers
 ## Markdown
 
 - [mdq](https://github.com/yshavit/mdq) **—** Select elements from Markdown documents using a syntax inspired by Markdown and jq. Match content with regular expressions. Output Markdown or JSON.
+- [mq](https://github.com/harehare/mq) **—** Query, filter, and transform Markdown using a syntax similar to jq. Written in Rust, with a REPL, an LSP for editor integration, and support for custom functions.
 - [treemd](https://github.com/Epistates/treemd) **—** View Markdown with tree-based structural navigation. Extract elements using a jq-like query language.
 
 
