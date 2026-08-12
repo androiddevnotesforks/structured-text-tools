@@ -103,6 +103,7 @@ CSV, TSV, and other delimiter-separated value formats. Tools belong on this list
 - [tab](http://tkatchev.bitbucket.io/tab/) **—** A non-Turing-complete statically typed programming language for data processing. An alternative to awk.
 - [teip](https://github.com/greymd/teip) **—** Select fields, character ranges, or regular expression matches from standard input. Replace them with the output of a command.
 - [tv](https://github.com/codechenx/tv) **—** View delimited files in the terminal.
+- [undatum](https://github.com/datacoon/undatum) **—** Convert, validate, query, and document tabular/record data across CSV, JSON Lines, Parquet, BSON, Excel, and many other formats. Streaming I/O and DuckDB SQL. Install with `pipx install undatum` or `uv tool install undatum`.
 - [xan](https://github.com/medialab/xan) **—** Preview, filter, slice, aggregate, sort, and join CSV files.
 - [xsv](https://github.com/BurntSushi/xsv) **—** Index, slice, analyze, split, and join CSV files.
 - [zsv](https://github.com/liquidaty/zsv) **—** Slice, combine, reformat, flatten/unflatten CSV (TSV, DSV) files. Query them with SQL and jq filters. Convert between them, JSON, and SQLite 3. Also a C library.
@@ -195,6 +196,7 @@ See the [big comparison list](sql-based.md). It covers
 - [Remarshal](https://github.com/dbohdan/remarshal) **—** Convert between CBOR, JSON, MessagePack, TOML, and YAML. Validate each of the formats. Pretty-print JSON, TOML, and YAML.
 - [rq](https://github.com/dflemstr/rq) **—** Convert between Apache Avro, CBOR, CSV, JSON, MessagePack, Protocol Buffers, TOML, YAML, and awk-style plain text.
 - [Skeem](https://github.com/daq-tools/skeem) **—** Infer SQL DDL statements from tabular data. Supports CSV, JSON, JSON Lines, ODS, XLSX, and other formats.
+- [undatum](https://github.com/datacoon/undatum) **—** Convert, validate, query, and document tabular/record data across CSV, JSON Lines, Parquet, BSON, Excel, and many other formats. Streaming I/O and DuckDB SQL. Install with `pipx install undatum` or `uv tool install undatum`.
 - [validjson](http://github.com/martinlindhe/validjson) **—** Validate or pretty-print JSON.
 - [xml-to-json-fast](https://github.com/sinelaw/xml-to-json-fast) **—** Convert XML to JSON. Can handle very large XML files.
 - [xmljson](https://github.com/engali94/XMLJson) **—** Convert multiple and large XML files to JSON. Written in Swift.
@@ -380,6 +382,7 @@ We only count JSON support that is separate from YAML.
 - [Saxon](http://saxon.sourceforge.net/) **—** Query XML and HTML data with [XPath](https://devhints.io/xpath). [Documentation](http://www.saxonica.com/documentation/#!using-xsl).
 - [Skeem](https://github.com/daq-tools/skeem) **—** Infer SQL DDL statements from tabular data. Supports CSV, JSON, JSON Lines, ODS, XLSX, and other formats.
 - [tidy-html5](http://www.html-tidy.org/) **—** Validate, fix, and reformat HTML(5), XHTML, and XML documents. Convert HTML to XHTML.
+- [undatum](https://github.com/datacoon/undatum) **—** Convert, validate, query, and document tabular/record data across CSV, JSON Lines, Parquet, BSON, Excel, and many other formats. Streaming I/O and DuckDB SQL. Install with `pipx install undatum` or `uv tool install undatum`.
 - [VisiData](https://github.com/saulpw/visidata) **—** Explore interactively data in TSV, CSV, XLS, XLSX, HDF5, JSON, and [other formats](http://visidata.org/man/#loaders). [Introduction](https://jsvine.github.io/intro-to-visidata/).
 - [Xidel](http://www.videlibri.de/xidel.html) **—** Query or modify XML and HTML pages with XPath, XQuery 3, and CSS selectors.
 - [xml2](https://web.archive.org/web/20160719191401/http://ofb.net/~egnor/xml2/) **—** Convert XML and HTML to and from flat, greppable lists of "path=value" statements. [Source code mirror](https://github.com/clone/xml2).

@@ -528,6 +528,11 @@ url = "https://github.com/codechenx/tv"
 descr = "View delimited files in the terminal."
 tags = ["csv"]
 
+[undatum]
+url = "https://github.com/datacoon/undatum"
+descr = "Convert, validate, query, and document tabular/record data across CSV, JSON Lines, Parquet, BSON, Excel, and many other formats. Streaming I/O and DuckDB SQL. Install with `pipx install undatum` or `uv tool install undatum`."
+tags = ["csv", "json", "multiformat"]
+
 [validjson]
 url = "http://github.com/martinlindhe/validjson"
 descr = "Validate or pretty-print JSON."
